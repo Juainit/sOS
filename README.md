@@ -49,19 +49,19 @@ To achieve the objective, the model must:
 The model is made up of three elements:
 1.	Data Gathering Module (aka “The Pill”). It is a module dedicated to data collection, and -according to RGDP legislation-, applies the law enforcement for the pseudonymity, deletion, or transfer back of individual data. It is an Artificial Intelligence (AI) of legal application (law boot), which protects and manages the individual's data. It has an important component of individual freedom and social empowerment: since, on the one hand, the data has an attribute of veracity and legitimacy, and on the other, it is inferred that thanks to this data better decisions can be made, both at the individual level and collective level.
 2.	Social Machine (SM). It is the module that allows decision-making, it is based on a three-dimensional model: 1) Physical dimension or GPS, 2) Virtual dimension, 3) Cognitive dimension. Through these, and comparing all the information in the data of all individuals, allows:
-	Create regression models or predictive models. 
-	Design ad-hoc policies. 
-	Design pre-distributive policies. 
-	Expand social scientific knowledge and better understand society and the individual. 
-	Optimize the execution of common objectives.
+ 	Create regression models or predictive models. 
+ 	Design ad-hoc policies. 
+ 	Design pre-distributive policies. 
+ 	Expand social scientific knowledge and better understand society and the individual. 
+ 	Optimize the execution of common objectives.
 3.	Decentralized Autonomous Organization (DAO). It is the control module of the other modules. Technically it is an institution (software), a matrix on which the P2P form of government is developed between individuals and assets. An individual's relationship with the DAO is always established as an owner, being at the same time a client, worker, and investor. It is a hybrid model; it combines a human domain (nodes) and a machine domain (links). The human domain refers to smart contracts or tasks: 
  
-	Propose
-	Validate
-	Execute
-	Delegate
-	Finance
-	Save / compute
+ 	Propose
+ 	Validate
+ 	Execute
+ 	Delegate
+ 	Finance
+ 	Save / compute
  
 The machine domain refers to the relationships between the nodes, it is a label manager (AI) of the data ("The Pill"), it controls the relationship between the nodes through these tags and the smart contracts, thus allowing to find the best way to concatenate a chain of tasks, find who can best validate a task or control that outside interests do not interfere with the tasks. 
 
