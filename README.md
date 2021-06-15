@@ -11,8 +11,11 @@ The formal institutional model is composed of a binomial: State and Markets, whi
 This balance, inherently, generates three externalities: sustainability, inefficiency, and inequality. That makes up a set of symptoms:
  
 •	Polarization.
+
 •	Political malpractice. 
+
 •	Power the conflict.
+
 •	Low risk control capacity.
  
 
