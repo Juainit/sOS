@@ -21,11 +21,14 @@ This balance, inherently, generates three externalities: sustainability, ineffic
 
 And more visibly as:
  
-•	Decreased confidence in the
-•	democracy (populisms).
+•	Decreased confidence in the	democracy (populisms).
+
 •	Increase in intra-extra state conflicts. (nationalisms).
+
 •	Low efficiency capacity.
+
 •	Low levels of happiness. 
+
 •	Little ability to handle diversity
  
 
@@ -40,10 +43,15 @@ Creation and execution of an institutional model using current technological res
 4. Key Success Factors (KSF)
 
 To achieve the objective, the model must:
+
 •	Allow correct transferability, minimizing the social conflict characteristic of transitions.
+
 •	Take into account the trajectory, the institutional model is articulated for a result defined as progress: Equality + (Heterogeneity / Consensus) + Freedom.
+
 •	Be defined by two of the characteristics of technological improvement: efficiency and social empowerment.
+
 •	Have an organizational and motivational infrastructure that can be sustained in time.
+
 •	Establish synergies between bottom-up and top-down.
 
 
@@ -51,19 +59,31 @@ To achieve the objective, the model must:
 
 The model is made up of three elements:
 1.	Data Gathering Module (aka “The Pill”). It is a module dedicated to data collection, and -according to RGDP legislation-, applies the law enforcement for the pseudonymity, deletion, or transfer back of individual data. It is an Artificial Intelligence (AI) of legal application (law boot), which protects and manages the individual's data. It has an important component of individual freedom and social empowerment: since, on the one hand, the data has an attribute of veracity and legitimacy, and on the other, it is inferred that thanks to this data better decisions can be made, both at the individual level and collective level.
+
 2.	Social Machine (SM). It is the module that allows decision-making, it is based on a three-dimensional model: 1) Physical dimension or GPS, 2) Virtual dimension, 3) Cognitive dimension. Through these, and comparing all the information in the data of all individuals, allows:
+
  •	Create regression models or predictive models. 
+ 
  •	Design ad-hoc policies. 
+ 
  •	Design pre-distributive policies. 
+ 
  • Expand social scientific knowledge and better understand society and the individual. 
+ 
  • Optimize the execution of common objectives.
+ 
 3.	Decentralized Autonomous Organization (DAO). It is the control module of the other modules. Technically it is an institution (software), a matrix on which the P2P form of government is developed between individuals and assets. An individual's relationship with the DAO is always established as an owner, being at the same time a client, worker, and investor. It is a hybrid model; it combines a human domain (nodes) and a machine domain (links). The human domain refers to smart contracts or tasks: 
  
  •	Propose
+ 
  •	Validate
+ 
  •	Execute
+ 
  •	Delegate
+ 
  •	Finance
+ 
  •	Save / compute
  
 The machine domain refers to the relationships between the nodes, it is a label manager (AI) of the data ("The Pill"), it controls the relationship between the nodes through these tags and the smart contracts, thus allowing to find the best way to concatenate a chain of tasks, find who can best validate a task or control that outside interests do not interfere with the tasks. 
@@ -71,18 +91,29 @@ The machine domain refers to the relationships between the nodes, it is a label 
 6. Features
 The institutional model has the following attributes:
 •	Minimizes the perversions of power inherent in a social structure. The relationship between the set of assets and the number of individuals configures the percentage of power for decision-making, the matrix avoids minority interest actions or buy-out practices. 
+
 •	It has a transparent design for decisions, and a very large democratic component, in addition, it is agreed by this method:
 o	The % of interest with which the tasks are financed. 
 o	The % of the investments that are made.
+
 •	It is very plastic, flexible, something essential for a correct transition. The smart contract “delegate” allows us to understand decentralization as a gradient, and not only in a dichotomous way.
+
 •	Generates a parity between work and capital, the matrix equally computes assets that represent work and assets that represent capital (investment). It has no more power neither who performs task assets - tasks through smart contracts -, nor who finances said tasks, in any case, whoever has the greatest diversity of assets will have more power.
+
 •	Allows greater efficiency. Establish P2P relationships, without an intermediary, through labels and smart contracts.
+
 •	Maintains parity between tasks and financing.
+
 •	Uses the cryptocurrency Euro, created by the European Central Bank.
+
 •	Conforms to the gig-economy model and allows the individual -if he wishes- to auto-finance the product/service.
+
 •	Adds legitimacy to the individual's data, has a longitudinal characteristic. 
+
 •	The chain or sequence made up of the human domain plus the machine domain always allows the individual to control decisions. 
+
 •	Conforms to the United Nations Sustainable Development Goals: 10 (inequality), 16.5 (Corruption), 16.6 (transparent institutions), 16.7 (Representative Decision-Making), and 16.9 (Legal identity).
+
 By reflecting on the relationship between collective intelligence and the ways of making better decisions (relationship between freedom, diversity, and consensus), it is important to point out one characteristic: Democracy starts from this relationship, and for this reason, it requires correct representation, at the same time as reliable information. Thus, the institutional model designed is shown as a form of assembly between nodes controlled by the artificial intelligence of each individual. In other words, if it is already difficult to hold an assembly among 10 individuals to make better decisions, it is more difficult to hold an assembly among 1000 individuals; because every time one more person is added, complexity is added exponentially. It cannot be expected that the 1000 people, - with different information - speak one by one in a cross way and reach a consensus. This is why we create representativeness - and by creating representativeness we gain efficiency, but we lose information -. The proposed model is conceptualized so that the artificial intelligence of an individual speaks with the other artificial intelligence of other individuals, and reaches consensus through the data of each one, in an environment controlled by smart contracts and labels.
 
 7. Strategy
@@ -97,19 +128,28 @@ That is why the strategy starts from the reverse: that the individual “see” 
 
 8.1 Solution to an individual problem 
 According to the strategy, the rhetoric of the problem revolves around the following messages: 
+
 •	The data is used to influence us more precise, and by the interests of third parties. 
-•	The benefits of the data are for companies or States, not for us. 
+
+•	The benefits of the data are for companies or States, not for us.
+
 •	There is a lack of control over who has your data. 
+
 •	It is difficult to apply your privacy rights on your digital life, you accept cookies and that's it.
 
 8.2 Features
 So, the functionalities that answer the problem are:
  
 •	Take control of your data.
+
 •	Apply your rights to your data.
+
 •	Manage your data safely.
+
 •	Make decisions based on your data. 
+
 •	Earn money with your data.
+
 •	Earn money doing tasks.
  
 
